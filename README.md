@@ -5,7 +5,7 @@ prompt) notifications about new issues and pull requests.
 
 # Usage
 
-The tool currently needs Zsh and [zplugin](https://github.com/zdharma/zplugin).
+The tool currently needs Zsh and [zplugin](https://github.com/zdharma-continuum/zinit).
 
 ## Manual ice-specifying
 
